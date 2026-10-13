@@ -1,0 +1,8 @@
+request_id,member,seed_type,priority,submitted_on,requested_packets,allocated_packets,shortfall_packets,outcome,draws
+SR-103,Cedar School,pea,urgent,2064-02-03,8,6,2,partial,SB-12:6
+SR-101,Aster Club,bean,urgent,2064-02-04,6,6,0,filled,SB-10:5;SB-11:1
+SR-107,Grove,carrot,urgent,2064-02-06,2,2,0,filled,SB-14:2
+SR-102,Bram,bean,standard,2064-02-01,5,3,2,partial,SB-11:3
+SR-106,Fern,carrot,standard,2064-02-01,7,7,0,filled,SB-14:3;SB-15:4
+SR-104,Delta Garden,bean,standard,2064-02-02,5,2,3,partial,SB-11:2
+SR-108,Harbor,radish,standard,2064-02-02,3,0,3,unfilled,
